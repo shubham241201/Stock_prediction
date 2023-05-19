@@ -1,6 +1,7 @@
 ## Stock Prediction for BAJAJ
 
 Project Report 
+
 Topic- Stock Prediction Model
 
 INTRODUCTION
