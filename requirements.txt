@@ -1,0 +1,10 @@
+numpy 
+pandas
+yfinance
+keras
+matplotlib
+scikit-learn
+tensorflow
+flask
+pickle5
+#-e .
