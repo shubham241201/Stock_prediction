@@ -46,8 +46,3 @@ The motivation behind the use of these two methods LSTM and RNN to determine if 
 CONCLUSION
 
 I believe the interface provides a way to predict closing values of stocks for 10 days.
-
-LINK FOR THE PROJECT:
-https://colab.research.google.com/drive/1OhW8LJXtqeNsGcqg6zacUdA5tnUhOxej?usp=sharing
-
-Submitted by- Shubham Chaudhary
